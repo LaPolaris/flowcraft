@@ -1,0 +1,17 @@
+{
+  "name": "flowcraft",
+  "version": "0.2.0",
+  "description": "Lightweight browser-based diagram builder with animated edges",
+  "homepage": "https://lapolaris.fr/tools/flowcraft",
+  "author": "LaPolaris <contact@lapolaris.fr> (https://lapolaris.fr)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lapolaris/flowcraft"
+  },
+  "keywords": ["diagram", "flowchart", "canvas", "svg", "browser", "no-bundler"],
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "gif.js": "^0.2.0"
+  }
+}
